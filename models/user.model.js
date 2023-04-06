@@ -5,6 +5,7 @@ const UserSchema = mongoose.Schema({
   age: Number,
   email: String,
   contactNumber: String,
+  role:String,
   location: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Location',

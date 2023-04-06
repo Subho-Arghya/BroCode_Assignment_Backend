@@ -8,10 +8,10 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-mongoose.connect('<REPLACE WITH MONGO URL>', {
+mongoose.connect('<YOUR OWN MONGODB URL>', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-});
+}).then(()=>{console.log(`MongoDb Connected 🥳`);});
 
 const Location = require('../models/location.model');
 const User = require('../models/user.model');
