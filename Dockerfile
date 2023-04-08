@@ -1,6 +1,4 @@
-FROM mhart/alpine-node:12
-
-ENV PORT 7023
+FROM mhart/alpine-node:18
 
 # Create app directory
 WORKDIR /usr/src/app
