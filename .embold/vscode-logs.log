@@ -1,3 +1,12 @@
 2023-04-06 12:41:09 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
 2023-04-06 12:41:09 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
 2023-04-06 12:41:09 info: Congratulations, your extension "Embold" is now active!
+2023-04-08 14:16:35 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-08 14:16:35 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-08 14:16:35 info: Congratulations, your extension "Embold" is now active!
+2023-04-08 15:29:33 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/User-Location-App/.git/config
+2023-04-08 15:29:33 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/User-Location-App/.git/config.lock
+2023-04-08 15:29:33 error: SQLITE_ERROR: no such table: issues
+2023-04-08 15:29:33 error: SQLITE_ERROR: no such table: issues
+2023-04-08 15:31:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/User-Location-App/.git/index.lock
+2023-04-08 15:31:16 error: SQLITE_ERROR: no such table: issues
